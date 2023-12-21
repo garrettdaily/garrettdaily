@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @garrettdaily and I am a senior at Ohio University where I am majoring in Finance & Business Analytics
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL, Tableau, Python, and Power BI
-- 💞️ I’m looking to secure a data analyst role and I am set to graduate in May of 2024
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently focused on learning SQL, Tableau, and Python
+- 💞️ I’m looking to secure an entry-level data analyst position, I graduate in May of 2024
 - 📫 How to reach me: dailygarrett13@gmail.com
 
 <!---
